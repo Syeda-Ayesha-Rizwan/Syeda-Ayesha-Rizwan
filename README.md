@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💎 **SYEDA AYESHA RIZWAN** 💎
+#  **SYEDA AYESHA RIZWAN** 
 
 ### *Software Engineer | Full-Stack Developer | Problem Solver*
 
@@ -101,17 +101,25 @@ Knowledge management system with document storage and search. Frontend built wit
 
 ---
 
-## 📊 **GITHUB STATS**
+## 🧠 Developer Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syeda-Ayesha-Rizwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=58A6FF)
+### `BUILD • LEARN • SHIP • REPEAT`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Ayesha-Rizwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=58A6FF)
+<img src="https://github-readme-stats.vercel.app/api?username=Syeda-Ayesha-Rizwan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Ayesha-Rizwan&layout=donut&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Ayesha-Rizwan&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Syeda-Ayesha-Rizwan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
 
 </div>
-
----
 
 ## 🎯 **CURRENTLY LEARNING**
 
