@@ -101,23 +101,15 @@ Knowledge management system with document storage and search. Frontend built wit
 
 ---
 
-## 🧠 Developer Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-### `BUILD • LEARN • SHIP • REPEAT`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syeda-Ayesha-Rizwan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Ayesha-Rizwan&layout=donut&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeda-Ayesha-Rizwan&bg_color=0d1117&color=58a6ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Ayesha-Rizwan&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Syeda-Ayesha-Rizwan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Syeda-Ayesha-Rizwan&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
