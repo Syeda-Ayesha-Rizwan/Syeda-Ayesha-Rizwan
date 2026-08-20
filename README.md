@@ -1,219 +1,28 @@
 <div align="center">
 
-# SYEDA AYESHA RIZWAN
+#  **SYEDA AYESHA RIZWAN** 
 
-### Software Engineer · Full-Stack Developer
+### *Software Engineer | Full-Stack Developer | Problem Solver*
 
-Building software that solves real problems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Development;Building+Real+Projects;Clean+Code+%26+Design;Always+Learning;Seeking+Internships)](https://git.io/typing-svg)
 
-<br>
+---
 
-<a href="https://github.com/Syeda-Ayesha-Rizwan">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/syedaayesha-rizwan-b795313b0">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:syedayesharizwan@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedaayesha-rizwan-b795313b0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedayesharizwan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syeda-Ayesha-Rizwan)
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Syeda-Ayesha-Rizwan&label=PROFILE%20VIEWS&style=flat-square&color=58A6FF" />
+![Profile Views](https://komarev.com/ghpvc/?username=Syeda-Ayesha-Rizwan&style=flat-square&color=00D9FF)
 
 </div>
 
 ---
 
-## About
+## 👋 **ABOUT ME**
 
-I'm a Software Engineering student at **Salim Habib University** with a strong interest in building complete software systems — from interfaces and APIs to databases, authentication, and deployment.
+3rd Semester Software Engineering student at **Salim Habib University**. I love building full-stack applications with modern technologies. Currently working on real projects and always eager to learn new things.
 
-I enjoy working across the stack and turning ideas into functional products.
-
-My current focus is on:
-
-**Full-Stack Development · Backend Engineering · Software Architecture · Databases · DevOps · AI Applications**
-
-Based in **Karachi, Pakistan 🇵🇰**
-
----
-
-## What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Full-Stack Applications
-
-Building modern web applications with clean interfaces, structured APIs, authentication, databases, and scalable architecture.
-
-**React · TypeScript · Next.js · FastAPI · PostgreSQL**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Software Systems
-
-Designing software beyond the interface — application logic, data models, algorithms, system structure, and real-world workflows.
-
-**Java · C++ · Qt · CMake · Python**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### AI-Powered Products
-
-Exploring how AI can improve knowledge management, automation, search, and everyday software workflows.
-
-**AI · LLM Applications · Embeddings · Automation**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering & DevOps
-
-Learning how applications move from development to reliable, reproducible environments.
-
-**Git · Docker · Linux · CI/CD · Cloud**
-
-</td>
-</tr>
-</table>
-
----
-
-# Selected Work
-
-## 01 · ITOS
-
-### Intelligent Transportation Optimization System
-
-A calculus-driven desktop application designed to analyze and optimize vehicle fuel consumption.
-
-The system combines mathematical modeling with an interactive software interface to explore vehicle efficiency, costs, and transportation scenarios.
-
-**Key work**
-
-* Fuel-consumption optimization
-* Calculus-based mathematical models
-* Interactive dashboard
-* Graph-based data visualization
-* Cost analysis
-* Transportation policy simulation
-* Pakistan-focused transportation scenarios
-
-**Technology**
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" title="Java"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" title="C++"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="38" title="CMake"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="38" title="Qt"/>
-</div>
-
-<br>
-
-<a href="https://github.com/Syeda-Ayesha-Rizwan/ITOS--Intelligent-Transportation-Optimization-System-">
-View repository →
-</a>
-
----
-
-## 02 · Yaqeen
-
-### Real Estate Platform
-
-A modern real-estate management platform built around property listings, user authentication, role-based access, and structured data management.
-
-The project focuses on building a complete application rather than only a frontend interface.
-
-**Key work**
-
-* Authentication & authorization
-* Role-based access control
-* Property listings
-* Property management
-* Secure database architecture
-* Responsive single-page application
-* Backend integration
-* PostgreSQL data management
-
-**Technology**
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="38" title="Vite"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="38" title="Redux"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" title="Supabase"/>
-</div>
-
-<br>
-
-<a href="https://github.com/Syeda-Ayesha-Rizwan/Real-Estate">
-View repository →
-</a>
-
----
-
-## 03 · Second Brain
-
-### AI-Powered Knowledge Management System
-
-A full-stack application designed to organize personal knowledge, documents, and notes while exploring AI-powered search and knowledge connections.
-
-The project combines a modern web interface with a Python backend and containerized development environment.
-
-**Key work**
-
-* Knowledge management
-* Markdown-based notes
-* Document organization
-* Search architecture
-* FastAPI backend
-* Next.js frontend
-* PostgreSQL integration
-* Dockerized environment
-* AI features in development
-
-**Technology**
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" title="Next.js"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" title="FastAPI"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker"/>
-</div>
-
-<br>
-
-<a href="https://github.com/Syeda-Ayesha-Rizwan/AI-Powered-Second-Brain">
-View repository →
-</a>
+**Location:** Karachi, Pakistan 🇵🇰
 
 ---
 
@@ -285,122 +94,119 @@ View repository →
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
 
 </div>
 
----
 
-# Engineering Interests
+## 🏆 **CERTIFICATIONS**
 
-```text
-Software Engineering
-    ├── Full-Stack Development
-    ├── Backend Engineering
-    ├── Software Architecture
-    └── System Design
-
-Data & Infrastructure
-    ├── PostgreSQL
-    ├── APIs
-    ├── Docker
-    ├── Linux
-    └── Cloud
-
-Problem Solving
-    ├── Data Structures & Algorithms
-    ├── Computational Thinking
-    └── Mathematical Modeling
-
-Emerging Technology
-    ├── Artificial Intelligence
-    ├── LLM Applications
-    └── AI Automation
-```
+✅ **Google AI Essentials** - AI fundamentals and LLMs  
+✅ **Build Dynamic User Interfaces** - Frontend development  
+✅ **Introduction to Cybersecurity** - Security principles  
+✅ **Technical Support Fundamentals** - IT support & troubleshooting  
+✅ **Crash Course on Python** - Python programming  
 
 ---
 
-# Certifications
+## 🚀 **PROJECTS**
 
-**Google AI Essentials**
-AI fundamentals and generative AI
+### **1. ITOS - Intelligent Transportation Optimization System** 🚗
+**Status:** ✅ Completed | **Type:** Desktop Application (Java Swing)
 
-**Build Dynamic User Interfaces**
-Frontend development
+Real-world application that uses calculus to optimize vehicle fuel consumption. Features interactive dashboard with live graphs, cost calculations, and national policy simulator for Pakistan transportation sector.
 
-**Introduction to Cybersecurity**
-Cybersecurity fundamentals
+**Tech:** Java, Swing, Calculus Algorithms, Data Visualization
 
-**Technical Support Fundamentals**
-IT support and troubleshooting
-
-**Crash Course on Python**
-Python programming
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-00D9FF?style=flat-square&logo=github)](https://github.com/Syeda-Ayesha-Rizwan/ITOS--Intelligent-Transportation-Optimization-System-)
 
 ---
 
-# GitHub
+### **2. Real Estate Platform** 🏠
+**Status:** 🔄 In Progress | **Type:** Web Application (SPA)
+
+Modern property management platform with user authentication, property listings, and secure database. Built with React frontend and Supabase backend with role-based access control.
+
+**Tech:** React 18, TypeScript, Vite, Redux Toolkit, Supabase, PostgreSQL
+
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-00D9FF?style=flat-square&logo=github)](https://github.com/Syeda-Ayesha-Rizwan/Real-Estate)
+
+---
+
+### **3. AI-Powered Second Brain** 🧠
+**Status:** 🔄 In Development | **Type:** Full-Stack Application
+
+Knowledge management system with document storage and search. Frontend built with Next.js, backend with FastAPI. *Note: AI integration features are still being developed.*
+
+**Tech:** Next.js 16, FastAPI, PostgreSQL, Docker
+
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-00D9FF?style=flat-square&logo=github)](https://github.com/Syeda-Ayesha-Rizwan/AI-Powered-Second-Brain)
+
+---
+
+## 🧠 Developer Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syeda-Ayesha-Rizwan&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" height="165"/>
+### `BUILD • LEARN • SHIP • REPEAT`
 
-  
+<img src="https://github-readme-stats.vercel.app/api?username=Syeda-Ayesha-Rizwan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Ayesha-Rizwan&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Ayesha-Rizwan&layout=donut&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" width="49%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Syeda-Ayesha-Rizwan&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeda-Ayesha-Rizwan&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeda-Ayesha-Rizwan&bg_color=0d1117&color=58a6ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Syeda-Ayesha-Rizwan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Syeda-Ayesha-Rizwan&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+</div>
+
+## 🎯 **CURRENTLY LEARNING**
+
+- Advanced system design & architecture
+- Microservices patterns
+- Cloud deployment (Docker, containerization)
+- Competitive programming (DSA)
+- LeetCode challenges
+
+---
+
+## 🤝 **INTERESTED IN**
+
+💼 Full-Stack Development Internships  
+🤝 Collaborating on open-source projects  
+📚 Learning from experienced developers  
+🚀 Building products that solve real problems  
+
+---
+
+## 📞 **LET'S CONNECT**
+
+<div align="center">
+
+**📧 Email:** syedayesharizwan@gmail.com
+
+**💼 LinkedIn:** [Syeda Ayesha Rizwan](https://www.linkedin.com/in/syedaayesha-rizwan-b795313b0)
+
+**🐙 GitHub:** [Syeda-Ayesha-Rizwan](https://github.com/Syeda-Ayesha-Rizwan)
+
+**📍 Karachi, Pakistan**
 
 </div>
 
 ---
 
-# Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syeda-Ayesha-Rizwan&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="94%"/>
+![Visitor Badge](https://visitcount.itsvg.in/api?id=Syeda-Ayesha-Rizwan&icon=6&color=00d9ff)
+
+*Always learning, always building* 🚀
 
 </div>
 
----
-
-# Currently Building
-
-**Yaqeen — Real Estate Platform**
-Improving authentication, authorization, property management, and production deployment.
-
-**AI-Powered Second Brain**
-Building the backend infrastructure and developing AI-powered knowledge features.
-
----
-
-# Let's Connect
-
-If you're interested in software engineering, collaboration, open source, or building something meaningful, I'd be happy to connect.
-
-<div align="center">
-
-<a href="mailto:syedayesharizwan@gmail.com">
-<img src="https://img.shields.io/badge/Email-syedayesharizwan%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=EA4335"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/syedaayesha-rizwan-b795313b0">
-<img src="https://img.shields.io/badge/LinkedIn-Syeda%20Ayesha%20Rizwan-111111?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Engineering with curiosity. Building with purpose.**
-
-</div>
